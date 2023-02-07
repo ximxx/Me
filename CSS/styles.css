@@ -1,0 +1,20 @@
+h1{
+  color: #cd9dcd;
+  font-size: 35pt;
+}
+h2{
+  color: #595959;
+  font-size: 25pt;
+}
+p{
+  color: #404040;
+  font-size: 15pt;
+
+}
+body {
+  background-image: url("https://i.pinimg.com/736x/ed/36/70/ed3670dd33f56f1fe312669538d52c9c.jpg");
+}
+
+img {
+  border-radius: 50%;
+}
